@@ -1,0 +1,24 @@
+h1 {
+    text-align: left;
+    font-weight: bold;
+    color:olivedrab;
+}
+
+h2 {
+    color:  darkgreen;
+    background-color: rgba(99, 156, 41, 0.233);
+}
+
+h3 {
+    color: darkolivegreen
+}
+
+ul ul {
+    border-bottom: 2px dashed green;
+    border-left: 2px dashed green;
+}
+
+body {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color:floralwhite;
+}
